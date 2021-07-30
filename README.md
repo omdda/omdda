@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emad Mohammed
+- 👀 I’m interested in Lang PHP , Python , Ruby , JS , CSS
+- 🌱 I’m currently learning Lang Python , Ruby 👀
+- 📫 How to reach me E-mail admin@omdda.com , Twitter @emad_3
